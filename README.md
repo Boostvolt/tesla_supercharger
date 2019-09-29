@@ -13,29 +13,29 @@ None
 
 ## Download & Installation
 
-This resource was developed alongside [wtf_ev], [wtf_teslax]. This resource works without them, but you might be interested in installing them altogether.
+This resource was developed alongside [tesla_ev], [tesla_teslax]. This resource works without them, but you might be interested in installing them altogether.
 
 ### Using Git
 ```
 cd resources
-git clone https://github.com/wtf-fivem-mods/wtf_tesla_supercharger [wtf]/wtf_tesla_supercharger/
+git clone https://github.com/boostvolt/tesla_supercharger [tesla]/tesla_supercharger/
 
-git clone https://github.com/wtf-fivem-mods/wtf_ev [wtf]/wtf_ev/
-git clone https://github.com/wtf-fivem-mods/wtf_teslax [wtf]/wtf_teslax/
+git clone https://github.com/boostvolt/tesla_ev [tesla]/tesla_ev/
+git clone https://github.com/boostvolt/tesla_modelx [tesla]/tesla_modelx/
 ```
 
 ### Manually
-- Download https://github.com/wtf-fivem-mods/wtf_tesla_supercharger/archive/master.zip
-- Create and place in in `[wtf]/wtf_tesla_supercharger` directory
+- Download https://github.com/boostvolt/tesla_supercharger/archive/master.zip
+- Create and place in in `[tesla]/tesla_supercharger` directory
 
 ## Installation
 - Add this in your `server.cfg`:
 
 ```lua
-start wtf_tesla_supercharger
+start tesla_supercharger
 -- if you downloaded related resources
-start wtf_ev
-start wtf_teslax
+start tesla_ev
+start tesla_modelx
 ```
 
 ## Screenshots
@@ -46,5 +46,5 @@ start wtf_teslax
 
 ![photo_2019-04-14_00-43-29 (2)](https://user-images.githubusercontent.com/79330/56089930-4552ea80-5e4f-11e9-8ac3-8dbdf466dc5a.jpg)
 
-[wtf_ev]: https://github.com/wtf-fivem-mods/wtf_ev
-[wtf_teslax]: https://github.com/wtf-fivem-mods/wtf_teslax
+[wtf_ev]: https://github.com/Boostvolt/tesla_ev
+[wtf_teslax]: https://github.com/Boostvolt/tesla_modelx
