@@ -1,11 +1,11 @@
-# wtf_tesla_supercharger
+# tesla_supercharger
 
 FiveM Tesla Supercharge model and custom map
 
 ## Requirements
 None
 
-## wtf_tesla_supercharger
+## tesla_supercharger
 
 - Tesla Supercharger
     - High quality 3D model of Tesla Supercharger
