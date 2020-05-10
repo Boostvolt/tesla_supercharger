@@ -1,6 +1,6 @@
 # tesla_supercharger
 
-FiveM Tesla Supercharge model and custom map
+FiveM Tesla Supercharger model and custom map
 
 ## Requirements
 None
