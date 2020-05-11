@@ -16,7 +16,6 @@ FiveM Tesla Supercharger and custom map.
 - [Tesla Cybertruck](https://github.com/boostvolt/tesla_cybertruck)
 - [Tesla Roadster](https://github.com/boostvolt/tesla_roadster)
 
-
 ## Download
 
 This resource was developed alongside [tesla_ev](https://github.com/boostvolt/tesla_ev), [tesla_redis](https://github.com/Boostvolt/tesla_redis). This resource will not work without them, so you will need to install them as well.
