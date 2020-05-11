@@ -1,9 +1,10 @@
 # tesla_supercharger
 
-FiveM Tesla Supercharger model and custom map
+FiveM Tesla Supercharger and custom map
 
 ## Requirements
-None
+- [tesla_ev](https://github.com/boostvolt/tesla_ev)
+- [tesla_redis](https://github.com/Boostvolt/tesla_redis)
 
 ## tesla_supercharger
 
@@ -13,15 +14,12 @@ None
 
 ## Download & Installation
 
-This resource was developed alongside [tesla_ev], [tesla_teslax]. This resource works without them, but you might be interested in installing them altogether.
+This resource was developed alongside [tesla_ev](https://github.com/boostvolt/tesla_ev), [tesla_redis](https://github.com/Boostvolt/tesla_redis). This resource will not work without them, so you will need to install them as well.
 
 ### Using Git
 ```
 cd resources
 git clone https://github.com/boostvolt/tesla_supercharger [tesla]/tesla_supercharger/
-
-git clone https://github.com/boostvolt/tesla_ev [tesla]/tesla_ev/
-git clone https://github.com/boostvolt/tesla_modelx [tesla]/tesla_modelx/
 ```
 
 ### Manually
@@ -33,9 +31,6 @@ git clone https://github.com/boostvolt/tesla_modelx [tesla]/tesla_modelx/
 
 ```lua
 start tesla_supercharger
--- if you downloaded related resources
-start tesla_ev
-start tesla_modelx
 ```
 
 ## Screenshots
@@ -45,9 +40,6 @@ start tesla_modelx
 ![photo_2019-04-14_00-43-29 (6)](https://user-images.githubusercontent.com/79330/56089925-3a985580-5e4f-11e9-9ff3-eb9430e0fbaf.jpg)
 
 ![photo_2019-04-14_00-43-29 (2)](https://user-images.githubusercontent.com/79330/56089930-4552ea80-5e4f-11e9-8ac3-8dbdf466dc5a.jpg)
-
-[wtf_ev]: https://github.com/Boostvolt/tesla_ev
-[wtf_teslax]: https://github.com/Boostvolt/tesla_modelx
 
 ## License
 
