@@ -1,18 +1,14 @@
 # tesla_supercharger
 
-FiveM Tesla Supercharger and custom map
+FiveM Tesla Supercharger and custom map.
+- High quality 3D model of Tesla Supercharger
+- Custom for placing superchargers in convenient locations
 
 ## Requirements
 - [tesla_ev](https://github.com/boostvolt/tesla_ev)
 - [tesla_redis](https://github.com/Boostvolt/tesla_redis)
 
-## tesla_supercharger
-
-- Tesla Supercharger
-    - High quality 3D model of Tesla Supercharger
-    - Custom for placing superchargers in convenient locations
-
-## Download & Installation
+## Download
 
 This resource was developed alongside [tesla_ev](https://github.com/boostvolt/tesla_ev), [tesla_redis](https://github.com/Boostvolt/tesla_redis). This resource will not work without them, so you will need to install them as well.
 
