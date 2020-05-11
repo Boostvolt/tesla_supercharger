@@ -8,6 +8,15 @@ FiveM Tesla Supercharger and custom map.
 - [tesla_ev](https://github.com/boostvolt/tesla_ev)
 - [tesla_redis](https://github.com/Boostvolt/tesla_redis)
 
+## Chargeable cars
+- [Tesla Model S](https://github.com/boostvolt/tesla_models)
+- [Tesla Model X](https://github.com/boostvolt/tesla_modelx)
+- [Tesla Model 3](https://github.com/boostvolt/tesla_model3)
+- [Tesla Model Y](https://github.com/boostvolt/tesla_model3)
+- [Tesla Cybertruck](https://github.com/boostvolt/tesla_cybertruck)
+- [Tesla Roadster](https://github.com/boostvolt/tesla_roadster)
+
+
 ## Download
 
 This resource was developed alongside [tesla_ev](https://github.com/boostvolt/tesla_ev), [tesla_redis](https://github.com/Boostvolt/tesla_redis). This resource will not work without them, so you will need to install them as well.
