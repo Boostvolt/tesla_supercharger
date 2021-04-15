@@ -1,41 +1,42 @@
-# tesla_supercharger
+# playlolly_tesla_supercharger
 
 FiveM Tesla Supercharger and custom map.
 - High quality 3D model of Tesla Supercharger
 - Custom for placing superchargers in convenient locations
 
 ## Requirements
-- [tesla_ev](https://github.com/boostvolt/tesla_ev)
-- [tesla_redis](https://github.com/Boostvolt/tesla_redis)
+- [playlolly_tesla_supercharger](https://github.com/playlolly/playlolly_tesla_supercharger)
+- [playlolly_tesla_ev](https://github.com/playlolly/playlolly_tesla_ev)
+- [playlolly_tesla_redis](https://github.com/playlolly/playlolly_tesla_redis)
 
 ## Chargeable cars
-- [Tesla Model S](https://github.com/boostvolt/tesla_models)
-- [Tesla Model 3](https://github.com/boostvolt/tesla_model3)
-- [Tesla Model X](https://github.com/boostvolt/tesla_modelx)
-- [Tesla Model Y](https://github.com/boostvolt/tesla_modely)
-- [Tesla Cybertruck](https://github.com/boostvolt/tesla_cybertruck)
-- [Tesla Roadster](https://github.com/boostvolt/tesla_roadster)
-- [Tesla Semi](https://github.com/boostvolt/tesla_semi)
+- [Tesla Model S](https://github.com/playlolly/playlolly_tesla_models)
+- [Tesla Model 3](https://github.com/playlolly/playlolly_tesla_model3)
+- [Tesla Model X](https://github.com/playlolly/playlolly_tesla_modelx)
+- [Tesla Model Y](https://github.com/playlolly/playlolly_tesla_modely)
+- [Tesla Cybertruck](https://github.com/playlolly/playlolly_tesla_cybertruck)
+- [Tesla Roadster](https://github.com/playlolly/playlolly_tesla_roadster)
+- [Tesla Semi](https://github.com/playlolly/playlolly_tesla_semi)
 
 ## Download
 
-This resource was developed alongside [tesla_ev](https://github.com/boostvolt/tesla_ev), [tesla_redis](https://github.com/Boostvolt/tesla_redis). This resource will not work without them, so you will need to install them as well.
+This resource was developed alongside [playlolly_tesla_ev](https://github.com/playlolly/playlolly_tesla_ev), [playlolly_tesla_supercharger](https://github.com/playlolly/playlolly_tesla_supercharger) and [playlolly_tesla_redis](https://github.com/playlolly/playlolly_tesla_redis). This resource works without them, but you might be interested in installing them altogether.
 
 ### Using Git
 ```
 cd resources
-git clone https://github.com/boostvolt/tesla_supercharger [tesla]/tesla_supercharger/
+git clone https://github.com/playlolly/playlolly_tesla_supercharger [tesla]/playlolly_tesla_supercharger/
 ```
 
 ### Manually
-- Download https://github.com/boostvolt/tesla_supercharger/archive/master.zip
-- Create and place in in `[tesla]/tesla_supercharger` directory
+- Download https://github.com/playlolly/playlolly_tesla_supercharger/archive/master.zip
+- Create and place in in `[tesla]/playlolly_tesla_supercharger` directory
 
 ## Installation
 - Add this in your `server.cfg`:
 
 ```lua
-start tesla_supercharger
+start playlolly_tesla_supercharger
 ```
 
 ## Screenshots
@@ -48,10 +49,4 @@ start tesla_supercharger
 
 ## License
 
-If you distribute a copy or make a fork of the project, you have to credit this project as source.
-
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with this program.  If not, see http://www.gnu.org/licenses/.
+Copyright © 2020 Boostvolt (Jan). All rights reserved.
